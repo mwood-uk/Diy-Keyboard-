@@ -1,9 +1,6 @@
 # Diy-Keyboard-
 Diy Keyboard project using ADF Teensy 2.0/3.2
 
-Line 7-17  = Ramblings about me (skip if not interested)
-Line 19-29 = What and why im here (the more pertinent bit of this readme)
-
 Ok, quick run down on me....
 So I’m a pretty practical hands on sort of dude, designing, fabricating, machining, soldering, welding etc... Hardware I can fix, software I mostly left to someone else!
 
