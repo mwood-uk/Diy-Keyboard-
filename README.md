@@ -16,6 +16,7 @@ OK, no I didn't think that and yes I knew the Raspberry Pi wasn't food, But that
 So I'm here to make myself a new keyboard and use something like the Teensy 2.0 or 3.2 as the controller! The hardware part I can deal with thats not the issue! My issue is the software for the teensy doodad that controls it. Everything I've read has pointed to Github for resources and scripts and such! Hense why I'm here.
 
 There are a couple of extra bits that I would be looking to add to my finished keyboard that I haven't really seen added to others:
+
 1. Keyboard controller (starting about 75-80% size, but possibly adding additional 'hotkeys' instead of macro's for heavily used commands)
 
 2. Macro function (for game scripts etc)
