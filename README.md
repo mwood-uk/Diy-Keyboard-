@@ -25,6 +25,6 @@ There are a couple of extra bits that I would be looking to add to my finished k
 
 4. r/g/b led controller (controlled from the keyboard)
 
-I think it would need to be the Teensy 3.2 as I believe there are no spare pins on the 2.0 for the led controller! Correct me if im wrong? 
+I think it would need to be the Teensy 3.2 as I believe there are no spare pins left on the 2.0 after the key matrix! Correct me if im wrong? 
 
 And thats where I'm at just now....
