@@ -17,8 +17,11 @@ So I'm here to make myself a new keyboard and use something like the Teensy 2.0 
 
 There are a couple of extra bits that I would be looking to add to my finished keyboard that I haven't really seen added to others:
 1. Keyboard controller (starting about 75-80% size, but possibly adding additional 'hotkeys' instead of macro's for heavily used commands)
+
 2. Macro function (for game scripts etc)
+
 3. 3 port usb hub (for mouse etc)
+
 4. r/g/b led controller (controlled from the keyboard)
 
 I think it would need to be the Teensy 3.2 as I believe there are no spare pins on the 2.0 for the led controller! Correct me if im wrong? 
